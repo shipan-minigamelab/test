@@ -1,0 +1,10 @@
+{
+  "name": "com.minigamelab.release.mgl",
+  "author": "Minigamelab",
+  "displayName": "MGL",
+  "version": "1.0.0",
+  "description": "MGL",
+  "dependencies": {
+    
+  }
+}

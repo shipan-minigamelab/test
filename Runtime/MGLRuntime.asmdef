@@ -1,0 +1,18 @@
+{
+    "name": "MGLRuntime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0640b71f705d34b28a4df5edcd0a8273",
+        "GUID:2a2f85821f8404208aff87b6a1257e5e",
+        "GUID:117eb3fa87afca14f977f06cae18c95f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
