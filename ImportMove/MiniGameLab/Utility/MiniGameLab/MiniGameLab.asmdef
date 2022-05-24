@@ -1,0 +1,20 @@
+{
+    "name": "MinGameLab",
+    "rootNamespace": "",
+    "references": [
+        "GUID:117eb3fa87afca14f977f06cae18c95f",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:2a2f85821f8404208aff87b6a1257e5e",
+        "GUID:71b31fd05922246b88ec2c4494ff019a",
+        "GUID:06920187852a0454db6337acc84349cf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
