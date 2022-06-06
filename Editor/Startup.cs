@@ -8,7 +8,7 @@ public class Startup
 {
     private const string PkgDir = "Packages";
     private const string DestDir = "Assets";
-    public const string ImportMoveDir = "ImportMove";
+    public const string ImportMoveDir = ".ImportMove";
 
     static Startup()
     {
